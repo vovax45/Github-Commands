@@ -1,0 +1,53 @@
+A. `git add`: Add file contents to the index.
+
+B. `git branch`: List, create, or delete branches.
+
+C. `git clone`: Clone a repository into a new directory.
+
+D. `git diff`: Show changes between commits, commit and working tree, etc.
+
+E. `git commit`: Record changes to the repository.
+
+F. `git fetch`: Download objects and refs from another repository.
+
+G. `git grep`: Print lines matching a pattern.
+
+H. `git help`: Display help information.
+
+I. `git init`: Create an empty Git repository or reinitialize an existing one.
+
+J. `git merge`: Join two or more development histories together.
+
+K. `git log`: Show commit logs.
+
+L. `git pull`: Fetch from and integrate with another repository or a local branch.
+
+M. `git push`: Update remote refs along with associated objects.
+
+N. `git remote`: Manage set of tracked repositories.
+
+O. `git reset`: Reset current HEAD to the specified state.
+
+P. `git rebase`: Reapply commits on top of another base tip.
+
+Q. `git rm`: Remove files from the working tree and from the index.
+
+R. `git status`: Show the working tree status.
+
+S. `git stash`: Stash the changes in a dirty working directory away.
+
+T. `git tag`: Create, list, delete or verify a tag object signed with GPG.
+
+U. `git unstage`: Unstage file(s) in the index.
+
+V. `git version`: Show the version of Git.
+
+W. `git show`: Show various types of objects.
+
+X. `git commit --amend`: Modify the last commit.
+
+Y. `git blame`: Show what revision and author last modified each line of a file.
+
+Z. `git checkout`: Switch branches or restore working tree files. 
+
+#Mohab(Vovax45)
